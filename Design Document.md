@@ -18,7 +18,7 @@
 - At the end of the ***Dungeon*** are three ***Rooms*** of increased difficulty. Winning one of them means completing the ***Dungeon*** descending.
 - After completing the ***Dungeon*** descending, the ***Player*** has a choice: safely leave the ***Dungeon*** with all the ***Items*** or risk going deeper into the next ***Dungeon***.
 - All ***Items*** taken out of the ***Dungeon*** are converted into ***Money*** for permanent character ***Upgrades***.
-![room examples](https://i.ibb.co/QYKSCnj/room-examples.png)
+![room examples](https://i.ibb.co/Gn4KHsM/room-examples.png)
 ### Encounter
 - The ***Player's*** encounter with the ***Enemy*** consists of ***Rounds***.
 	- Each ***Rounds***, the ***Player*** and the ***Enemy*** decide how to ***Act***: ***Tricky***, ***Quickly*** or ***Carefully***. 
@@ -92,10 +92,11 @@
 - If Someone's ***Health*** reaches zero - they lose
 - If no one loses, the next ***Round*** begins.
 ### Rest Room
-![rest room example](https://i.ibb.co/sWJS1vL/rest-room-example-long.png)
-- In the ***Rest Room***, the ***Player*** must ***Choose*** between ***Active*** and ***Quiet*** rest.
+![rest room example](https://i.ibb.co/FKzHN8j/rest-room-example-long.png)
+- In the ***Rest Room***, the ***Player*** must ***Choose*** between ***Active***, ***Productive*** and ***Quiet*** rest.
 	- The ***Choise*** is made by playing ***Pachinko***.
 	- Each ***Point*** of ***Active Rest*** gives the ***Player Energy***.
+ 	- Each ***Point*** of ***Productive Rest*** increases the ***Level*** of the ***Item*** the ***Player*** can obtain. 	
 	- Each ***Point*** of ***Quiet Rest*** restores the ***Player's Health***
 ### Taking an Item 
 ![item choosing example](https://i.ibb.co/KD5SJW5/item-selection-example-long.png)
