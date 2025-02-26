@@ -1,4 +1,4 @@
-![room-examples](https://github.com/user-attachments/assets/0618b53c-e5f1-446a-8078-54bbebe2568f)![room-examples](https://github.com/user-attachments/assets/040c22a0-bf55-439b-854a-c65c45491914)# Pachinko Dungeon
+# Pachinko Dungeon
 ## Synopsis
 **Genre**: Roguelite Arcade
 
