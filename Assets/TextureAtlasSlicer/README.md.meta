@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 463e84607d141d645b70834aa062a0d1
+timeCreated: 1430859603
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36103
+  packageName: XML Texture Atlas Slicer
+  packageVersion: 1.1
+  assetPath: Assets/TextureAtlasSlicer/README.md
+  uploadId: 69610
