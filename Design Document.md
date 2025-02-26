@@ -61,7 +61,7 @@
 - Upon ***Completing*** a ***Dungeon***, the ***Player*** can safely leave it with all the ***Items*** or go down to the next one of increased difficulty.
 
 ### Pachinko
-![room examples](https://i.ibb.co/QYKSCnj/room-examples.png)
+![room examples](https://i.ibb.co/6r73Xvt/room-examples.png)
 - Each ***Rooms*** presents the player with a ***Choice***.
 	- How to behave in battle
 	- What precious item to take
