@@ -1,0 +1,2481 @@
+fileFormatVersion: 2
+guid: 727ec129b95a7084dbb980ffc310d49a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2430567114724279944
+    second: spritesheetEnemies_0
+  - first:
+      213: -1456562240356905633
+    second: spritesheetEnemies_1
+  - first:
+      213: 1313052815175396436
+    second: spritesheetEnemies_2
+  - first:
+      213: 4110238534294279475
+    second: spritesheetEnemies_3
+  - first:
+      213: -516003862480161518
+    second: spritesheetEnemies_4
+  - first:
+      213: -8809966204728459452
+    second: spritesheetEnemies_5
+  - first:
+      213: 2156366763269015052
+    second: spritesheetEnemies_6
+  - first:
+      213: 3323953625749070872
+    second: spritesheetEnemies_7
+  - first:
+      213: -7253232043162195463
+    second: spritesheetEnemies_8
+  - first:
+      213: 5148679546348423906
+    second: spritesheetEnemies_9
+  - first:
+      213: -2888384019017718224
+    second: spritesheetEnemies_10
+  - first:
+      213: -1640958451611494815
+    second: spritesheetEnemies_11
+  - first:
+      213: -5946136398198652627
+    second: spritesheetEnemies_12
+  - first:
+      213: -8749940783230241473
+    second: spritesheetEnemies_13
+  - first:
+      213: 2957408843569656908
+    second: spritesheetEnemies_14
+  - first:
+      213: 5077067806244795874
+    second: spritesheetEnemies_15
+  - first:
+      213: 2935026053857926009
+    second: spritesheetEnemies_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barnacle.png
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 216
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18637c92642a0bcc0800000000000000
+      internalID: -3697276871838845311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_bite.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 234
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b9444dc52ee2f10800000000000000
+      internalID: 2246982152430590850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_dead.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 235
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6ebce501df2cc0800000000000000
+      internalID: -3733535742689908078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_hit.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 105
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e00069a9fe68200800000000000000
+      internalID: 182096282175671866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 230
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea5be6aac716ce0800000000000000
+      internalID: -1413711736573940128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_dead.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 277
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01989709859758090800000000000000
+      internalID: -8032880939057444592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbb7706f05cf92c0800000000000000
+      internalID: -4422599639220896826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_hang.png
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 58
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55421901d4e5c1d50800000000000000
+      internalID: 6709341229958636629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_hit.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 324
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c51ac93af913ff0800000000000000
+      internalID: -58089795122799518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee.png
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 111
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5055dc66772036f0800000000000000
+      internalID: -707021751911624613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_dead.png
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 159
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca38e3409f958110800000000000000
+      internalID: 1262590712510692041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_fly.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 447
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c60db67d4dd3b0800000000000000
+      internalID: -5486143598694579636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_hit.png
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 420
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd97284c2aa5620800000000000000
+      internalID: 2763700286231534515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 341
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86286d1081c6fa0800000000000000
+      internalID: -5806239423414507281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen_dead.png
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 77
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e3acd3a5ffec30800000000000000
+      internalID: 4390998245839726028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen_hit.png
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1de627f2921ecc0800000000000000
+      internalID: -3683617736452288072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishGreen_swim.png
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 252
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cfbacf27ed8f890800000000000000
+      internalID: -7423939400273495010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 467
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26ee5cdd018451a0800000000000000
+      internalID: -6821685639027694034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink_dead.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 219
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838007e6aadf34f0800000000000000
+      internalID: -846717794547367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink_hit.png
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82244a2aa66e9d90800000000000000
+      internalID: -7089115882395000181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishPink_swim.png
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 468
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd565321f7448d50800000000000000
+      internalID: 6738590043458657728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 353
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626371dd0e0721c0800000000000000
+      internalID: -4528635447786380694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_dead.png
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 296
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4332ca0fe842d1950800000000000000
+      internalID: 6421328840041964340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_fly.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 140
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb63474ab33cc880800000000000000
+      internalID: -8589433514149844025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_hit.png
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 207
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31643dbc2515ed770800000000000000
+      internalID: 8637430551391979027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 428
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ddad64beaae420800000000000000
+      internalID: 2660130619873155582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_dead.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 176
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8cc433a9d34f20800000000000000
+      internalID: 3405805038210944594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_hit.png
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 325
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae95d3a53a44f30800000000000000
+      internalID: 4558948330777471698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_leap.png
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 122
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82c17b6cd091940800000000000000
+      internalID: 5267256386313267421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 292
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1de7abd3ce07ee0800000000000000
+      internalID: -1265251745425075753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_dead.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 162
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efb1ebf53cda63f0800000000000000
+      internalID: -906670250544480285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_hit.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 292
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8502eb9552b68c0800000000000000
+      internalID: -4005066376243816220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_normal.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 53
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f16ad1cc6c63b40800000000000000
+      internalID: 5419737781560024968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassBlock.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e834e2486f8a00c0800000000000000
+      internalID: -4608713590698657565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassBlock_dead.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897ceb29557c10550800000000000000
+      internalID: 6125396138548709272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassBlock_hit.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c27c19dcc76a640800000000000000
+      internalID: 5090893651144813570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grassBlock_jump.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30078b89e24cf8e90800000000000000
+      internalID: -7021177589637550077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladyBug.png
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 230
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b13730abc9bc50800000000000000
+      internalID: 6681595411162052101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladyBug_fly.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 177
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f66e97ae598f310800000000000000
+      internalID: 1439064915244904277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladyBug_hit.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 88
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e896122e42579250800000000000000
+      internalID: 5951315928126232805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladyBug_walk.png
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 379
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d6e481e16be6f00800000000000000
+      internalID: 1112026398380158282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse.png
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a383a611e80c460800000000000000
+      internalID: 7259958804768897625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_dead.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 271
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a96c993a3b7c7b0800000000000000
+      internalID: -5203993329162347949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_hit.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682d8aa718e48b50800000000000000
+      internalID: 6594650942720518248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_walk.png
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529681bcbfd170c90800000000000000
+      internalID: -7203756111674447579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranha.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 392
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46ff6663afc9980800000000000000
+      internalID: -8530668482583370505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranha_dead.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 106
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c709ab6235ccf30800000000000000
+      internalID: 4597140745442327663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranha_down.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 452
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aa2587c49f2c300800000000000000
+      internalID: 271053034427165248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranha_hit.png
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 106
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72664fec4618420800000000000000
+      internalID: 2630494497387456485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime.png
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 21
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1034d0b30d7c7a0800000000000000
+      internalID: -6356883396966022685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlock.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ee6be00296cd70800000000000000
+      internalID: 9063091832777269722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlock_dead.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 55
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5d43773a0c46a0800000000000000
+      internalID: -6463780131909575698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlock_hit.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 275
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31303b7cdf39b90800000000000000
+      internalID: -7236161142110612543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 200
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06384f47afb80c100800000000000000
+      internalID: 126254697386640224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_blue.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 147
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897941d36210eff0800000000000000
+      internalID: -8986979332425342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_dead.png
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 478
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f6b91368799640800000000000000
+      internalID: 5087229621120202458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_hit.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 21
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef01041b7780bea0800000000000000
+      internalID: -5859034152522674204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlue_squashed.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 45
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1382fd201b243e80800000000000000
+      internalID: -8199881673044491489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 413
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1a3f39f513119f0800000000000000
+      internalID: -499563797087542866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_dead.png
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 331
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25526b6a07882ac40800000000000000
+      internalID: 5522126110524319058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_hit.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 21
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae9d2fe1829c500800000000000000
+      internalID: 416908553896978983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_squashed.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 377
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6f172a4804cd90800000000000000
+      internalID: -7078523599742603739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreen_walk.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 398
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a29c66e356ea7980800000000000000
+      internalID: -8540260495332175199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_dead.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 166
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf25c2b2f76f7ff0800000000000000
+      internalID: -36195979916660819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_hit.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 21
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc16d5d170599a10800000000000000
+      internalID: 1916651566271962315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_squashed.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 134
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e41a3186902a880800000000000000
+      internalID: -8601301995713638894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_walk.png
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b80e1d9cd7b360800000000000000
+      internalID: 7185454297864779348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail.png
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54bf5ff4c5e4eaf0800000000000000
+      internalID: -367916635276725156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_hit.png
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 472
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2467d1d59161f51a0800000000000000
+      internalID: -6818707012623436222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_shell.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 71
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f9d7aaf5955a230800000000000000
+      internalID: 3649421340470779701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_walk.png
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 37
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a058f33f10f4cc7e0800000000000000
+      internalID: -1743932085904636662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 489
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1083ec1628aa20800000000000000
+      internalID: 3073748651198127897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLava.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 325
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c928335975c380800000000000000
+      internalID: -8951615285997483916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLava_ani.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 365
+        width: 52
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7843e81b530f9a930800000000000000
+      internalID: 4155116244628812935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLava_dead.png
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 31
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f48593df1daa3b40800000000000000
+      internalID: 5420835453699196151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLava_hit.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 126
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2869a7489d3a5240800000000000000
+      internalID: 4781201678653810731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeSlime.png
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 178
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b88c29267beed0800000000000000
+      internalID: -2383681658549652129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeSlime_ani.png
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 365
+        width: 52
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecc5df1811755470800000000000000
+      internalID: 8382730629847305455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeSlime_dead.png
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 273
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da67310fc9138de0800000000000000
+      internalID: -1332192687902201130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeSlime_hit.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 126
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8784ced9d3670000800000000000000
+      internalID: 2080112233449358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake_dead.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 390
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2cf8ac837ec1340800000000000000
+      internalID: 4835994330991674051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake_hit.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09915ca3e5e31f20800000000000000
+      internalID: 3392307710351481098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake_walk.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 55
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2bd277b3327af40800000000000000
+      internalID: 5739594988416512700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701458373833e440800000000000000
+      internalID: 4963873024111808633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_dead.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 179
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b9b89f8299f8a00800000000000000
+      internalID: 760995263313320785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_hit.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197939c7a04e92330800000000000000
+      internalID: 3686728503670314897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c9e85bb1e47ef0800000000000000
+      internalID: -111215896010571391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7dc2ec49fc1c380800000000000000
+      internalID: -8952646346214680655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinner.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 78
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf463ed679a1550800000000000000
+      internalID: 6132380340840627345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinnerHalf.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 32
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1617796c882d080800000000000000
+      internalID: -9164111905219845653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinnerHalf_dead.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc754c590e6024bb0800000000000000
+      internalID: -4953389078499010609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinnerHalf_hit.png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0893c8da266d4cf10800000000000000
+      internalID: 2289190229917841792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinnerHalf_spin.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919e52143fa50080800000000000000
+      internalID: -9221772023789874800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinner_dead.png
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 413
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54edf2f97b1f01720800000000000000
+      internalID: 2815015538058583621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinner_hit.png
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 264
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e831a6da5257abb0800000000000000
+      internalID: -4924877117404923680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinner_spin.png
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa953bfd32db3a0800000000000000
+      internalID: -6648118031235305588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 117
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3b7b3c8a380af70800000000000000
+      internalID: 9196495199951893462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_dead.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0325c62514fa19020800000000000000
+      internalID: 2346849575927304752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_hit.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9102a2e7bdbc280800000000000000
+      internalID: -9021876093587547655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_walk.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 94
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b0d0ee5a96e5570800000000000000
+      internalID: 8457313311632722773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barnacle.png: -3697276871838845311
+      barnacle_bite.png: 2246982152430590850
+      barnacle_dead.png: -3733535742689908078
+      barnacle_hit.png: 182096282175671866
+      bat.png: -1413711736573940128
+      bat_dead.png: -8032880939057444592
+      bat_fly.png: -4422599639220896826
+      bat_hang.png: 6709341229958636629
+      bat_hit.png: -58089795122799518
+      bee.png: -707021751911624613
+      bee_dead.png: 1262590712510692041
+      bee_fly.png: -5486143598694579636
+      bee_hit.png: 2763700286231534515
+      fishGreen.png: -5806239423414507281
+      fishGreen_dead.png: 4390998245839726028
+      fishGreen_hit.png: -3683617736452288072
+      fishGreen_swim.png: -7423939400273495010
+      fishPink.png: -6821685639027694034
+      fishPink_dead.png: -846717794547367027
+      fishPink_hit.png: -7089115882395000181
+      fishPink_swim.png: 6738590043458657728
+      fly.png: -4528635447786380694
+      fly_dead.png: 6421328840041964340
+      fly_fly.png: -8589433514149844025
+      fly_hit.png: 8637430551391979027
+      frog.png: 2660130619873155582
+      frog_dead.png: 3405805038210944594
+      frog_hit.png: 4558948330777471698
+      frog_leap.png: 5267256386313267421
+      ghost.png: -1265251745425075753
+      ghost_dead.png: -906670250544480285
+      ghost_hit.png: -4005066376243816220
+      ghost_normal.png: 5419737781560024968
+      grassBlock.png: -4608713590698657565
+      grassBlock_dead.png: 6125396138548709272
+      grassBlock_hit.png: 5090893651144813570
+      grassBlock_jump.png: -7021177589637550077
+      ladyBug.png: 6681595411162052101
+      ladyBug_fly.png: 1439064915244904277
+      ladyBug_hit.png: 5951315928126232805
+      ladyBug_walk.png: 1112026398380158282
+      mouse.png: 7259958804768897625
+      mouse_dead.png: -5203993329162347949
+      mouse_hit.png: 6594650942720518248
+      mouse_walk.png: -7203756111674447579
+      piranha.png: -8530668482583370505
+      piranha_dead.png: 4597140745442327663
+      piranha_down.png: 271053034427165248
+      piranha_hit.png: 2630494497387456485
+      slime.png: -6356883396966022685
+      slimeBlock.png: 9063091832777269722
+      slimeBlock_dead.png: -6463780131909575698
+      slimeBlock_hit.png: -7236161142110612543
+      slimeBlue.png: 126254697386640224
+      slimeBlue_blue.png: -8986979332425342
+      slimeBlue_dead.png: 5087229621120202458
+      slimeBlue_hit.png: -5859034152522674204
+      slimeBlue_squashed.png: -8199881673044491489
+      slimeGreen.png: -499563797087542866
+      slimeGreen_dead.png: 5522126110524319058
+      slimeGreen_hit.png: 416908553896978983
+      slimeGreen_squashed.png: -7078523599742603739
+      slimeGreen_walk.png: -8540260495332175199
+      slime_dead.png: -36195979916660819
+      slime_hit.png: 1916651566271962315
+      slime_squashed.png: -8601301995713638894
+      slime_walk.png: 7185454297864779348
+      snail.png: -367916635276725156
+      snail_hit.png: -6818707012623436222
+      snail_shell.png: 3649421340470779701
+      snail_walk.png: -1743932085904636662
+      snake.png: 3073748651198127897
+      snakeLava.png: -8951615285997483916
+      snakeLava_ani.png: 4155116244628812935
+      snakeLava_dead.png: 5420835453699196151
+      snakeLava_hit.png: 4781201678653810731
+      snakeSlime.png: -2383681658549652129
+      snakeSlime_ani.png: 8382730629847305455
+      snakeSlime_dead.png: -1332192687902201130
+      snakeSlime_hit.png: 2080112233449358
+      snake_dead.png: 4835994330991674051
+      snake_hit.png: 3392307710351481098
+      snake_walk.png: 5739594988416512700
+      spider.png: 4963873024111808633
+      spider_dead.png: 760995263313320785
+      spider_hit.png: 3686728503670314897
+      spider_walk1.png: -111215896010571391
+      spider_walk2.png: -8952646346214680655
+      spinner.png: 6132380340840627345
+      spinnerHalf.png: -9164111905219845653
+      spinnerHalf_dead.png: -4953389078499010609
+      spinnerHalf_hit.png: 2289190229917841792
+      spinnerHalf_spin.png: -9221772023789874800
+      spinner_dead.png: 2815015538058583621
+      spinner_hit.png: -4924877117404923680
+      spinner_spin.png: -6648118031235305588
+      worm.png: 9196495199951893462
+      worm_dead.png: 2346849575927304752
+      worm_hit.png: -9021876093587547655
+      worm_walk.png: 8457313311632722773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

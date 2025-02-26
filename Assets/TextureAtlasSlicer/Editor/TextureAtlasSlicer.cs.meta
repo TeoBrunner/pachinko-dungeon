@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2067bd0762faf2c48910fee768c92901
+timeCreated: 1430572201
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36103
+  packageName: XML Texture Atlas Slicer
+  packageVersion: 1.1
+  assetPath: Assets/TextureAtlasSlicer/Editor/TextureAtlasSlicer.cs
+  uploadId: 69610
